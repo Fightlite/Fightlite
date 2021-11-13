@@ -9,12 +9,13 @@ From my perspective, nothing is impossible, even it is a new field, as long as I
 
 ### " Living, Learning, and Coding."
 
-Skills: REACT NATIVE / REACT / JS / HTML / CSS/ BOOTSTRAP/ STYLED COMPONENTS
+Technical Skills:
+## REACT NATIVE / REACT / JS / HTML / CSS/ BOOTSTRAP/ STYLED COMPONENTS
 
 - 🌱 I’m currently learning everything in this world for a great front-end developer in the country.
 - 📫 How to reach me: You can reach me anywhere you like, I attached my social media link below, feel free to contact me. 
 - ⚡ Fun fact: Actually, I am a funny guy 😆 and friendly.
 
-Let's check out my portfolio: 'https://nhantran0110.netlify.app/'
+Let's check out my portfolio: https://nhantran0110.netlify.app/
 
 [<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt='github' height='40'>](https://github.com/https://github.com/Fightlite)  [<img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tran-trong-nhan-b4a662132//)  [<img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kimkibin09/)
