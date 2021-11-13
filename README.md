@@ -15,5 +15,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS/ BOOTSTRAP/ STYLED COMPONENTS
 - 📫 How to reach me: You can reach me anywhere you like, I attached my social media link below, feel free to contact me. 
 - ⚡ Fun fact: Actually, I am a funny guy 😆 and friendly.
 
+# Check out my portfolio: [<img src="https://img.icons8.com/ios-filled/50/ffffff/circled-n.png" alt='nhan' height='40'/>](https://nhantran0110.netlify.app/)
 
+## Connect me:
 [<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt='github' height='40'>](https://github.com/https://github.com/Fightlite)  [<img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tran-trong-nhan-b4a662132//)  [<img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kimkibin09/)
