@@ -1,11 +1,11 @@
-### Hello guys 👋, My name is Nhan 
+### Hi there 👋, My name is Nhan 
 #### Front-end Developer 🧑‍💻
 
 Let me tell you guys a story of my-self:
 
-I am a young software engineer who has just made the first step into the field of Information & Technology. In the first days, everything seemed so new and I found it very difficult to approach them, when learning on my own, it was even more difficult. However, with a strong belief that I can do it, I did not give up, I was determined to invest more time, pay more effort in self-study. Every day I spend 8 to 10 hours learning and practicing coding, from waking up to bedtime, besides exercising for good health and reading books to boost my mindset, for the sustainable long-term path in this industry. From here, I realized I am passionate about coding very strongly, I spend more time, maybe 12-14 hours a day, I don't feel tired at all but also very enthusiastic, I code so hard with strong motivation. The more I code, the more I realize who I am and what I want to achieve in this amazing field. I aim to become the best Front-end Developer in the country. And orient to be a Full-stack Developer in the next 3 years.
+I am a young software engineer who has just made the first step into the field of Information & Technology 💻. In the first days, everything seemed so new and I found it very difficult to approach them, when learning on my own, it was even more difficult. However, with a strong belief that I can do it, I did not give up, I was determined to invest more time, pay more effort in self-study. Every day I spend 8-10 hours ⏰ learning and practicing coding, from waking up 🌄 to bedtime 🌃, besides exercising 🏋️ for good health and reading books 📖 to boost my mindset 🧠, for the sustainable long-term path in this industry. From here, I realized I am passionate about coding very strongly, I spend more time, maybe 12-14 hours ⏰ a day, I don't feel tired at all but also very enthusiastic, I code so hard with strong motivation. The more I code, the more I realize who I am and what I want to achieve in this amazing field. I aim to become the best Front-end Developer in the country. And orient to be a Full-stack Developer in the next 3 years 💪💪💪.
 
-I love coding, learning cutting-edge technologies for high-performance development, solving critical issues for clients and society, making life better.
+I love coding, learning cutting-edge technologies for high-performance development, solving critical issues for clients and society, making life better 🌍.
 
 From my perspective, nothing is impossible, even it is a new field, as long as I always keep trying, willing to learn new things, work hard, "learn one, practice ten". I believe I can conquer anything.
 
