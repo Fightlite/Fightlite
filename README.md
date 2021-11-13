@@ -13,8 +13,7 @@ From my perspective, nothing is impossible, even it is a new field, as long as I
 
 On this Github Page, I build many projects that I have learned about, some that I have worked and a range of projects to come in the future.
 
-Technical Skills:
-#### REACTJS / REACT NATIVE / JAVASCRIPT / HTML / CSS3/ SCSS/ BOOTSTRAP/ STYLED COMPONENTS
+### Technical Skills: REACTJS / REACT NATIVE / JAVASCRIPT / HTML / CSS3/ SCSS/ BOOTSTRAP/ STYLED COMPONENTS
 
 🔭 I’m currently working on ReactJS as a main framework, along with Styled Components or CSS3.
 🌱 I’m learning everything in this world to become a great Front-end developer in the country.
