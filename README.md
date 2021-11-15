@@ -7,7 +7,7 @@ I am a young software engineer who has just made the first step 🐾 into the fi
 
 I love ❤️ coding, learning cutting-edge technologies for high-performance development, solving critical issues for clients and society, making life better 🌍.
 
-From my perspective, nothing is impossible, even it is a new field, as long as I always keep trying, willing to learn new things, work hard, "learn one, practice ten". I believe I can conquer anything 🏆🏆🏆.
+From my perspective, nothing is impossible, even it is a new field, as long as I keep trying, willing to learn new things, hard-working, "learn one, practice ten". I believe I can conquer anything 🏆🏆🏆.
 
 *" Living, Learning, and Coding."*
 
